@@ -1,1 +1,1 @@
-console.log("Hello, gulp starter!")
+console.log("=====> Hello, gulp starter!");
